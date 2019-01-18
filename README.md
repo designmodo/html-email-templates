@@ -3,7 +3,7 @@ Download Free HTML Email templates created using the [Postcards Email Builder](h
 
 ![Postcards App](https://cdn-images-1.medium.com/max/2600/1*kB_4J-W0ARXgc2WfpUQy8Q.jpeg)
 
-## Postcards App: Email Builder
+## [Postcards App: Email Builder](https://designmodo.com/postcards/)
 
 You probably know how powerful email marketing can be when it comes to business growth. Social media can help you immensely to communicate your message to the masses, but you should not forget that you are relying on individuals.
 
