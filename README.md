@@ -36,6 +36,10 @@ The clean design is combined with more than 800 Google Fonts to complement your 
 
 Thanks to a clean code this app have; you can work with it on any ESP (Email Service Provider) platform like Mailchimp, HubSpot, Campaign Monitor, Aweber etc. By creating personalized and easy to use [Postcards app](https://designmodo.com/postcards/), **Designmodo** has made sure that you can express your creativity and actually see the benefits of it real quick.
 
+**License**
+
+If you find the tool useful, please share it with your friends or mention us on your website. Use the templates for personal or commercial projects, but don't sell them!
+
 **Credits**
 
 Developed by [Designmodo](https://designmodo.com).
