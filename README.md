@@ -1,7 +1,7 @@
 # Free HTML Email Templates
 Download Free HTML Email templates created using the [Postcards Email Builder](https://designmodo.com/postcards/).
 
-![Postcards App](https://cdn-images-1.medium.com/max/2600/1*kB_4J-W0ARXgc2WfpUQy8Q.jpeg)
+![Postcards App](https://cdn-images-1.medium.com/max/2600/1*b7cGM4sOqYGyYKJ4hMKvrQ.jpeg)
 
 ## [Postcards App: Email Builder](https://designmodo.com/postcards/)
 
@@ -13,7 +13,8 @@ Although, those people live in the Instagram era, which means they look for some
 
 **Postcards – Create Newsletters**
 
-![Postcards App](https://cdn-images-1.medium.com/max/2600/1*b7cGM4sOqYGyYKJ4hMKvrQ.jpeg)
+![Postcards App](https://cdn-images-1.medium.com/max/2600/1*kB_4J-W0ARXgc2WfpUQy8Q.jpeg)
+
 
 Not only will you have an opportunity to create the template based on your wants and needs, but you will get the opportunity to do that easily. First of all, you don´t need coding skills at all. **Postcards app is easy to use,** and it is made to serve you on your way to success.
 
