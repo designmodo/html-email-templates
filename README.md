@@ -43,6 +43,9 @@ If you find the tool useful, please share it with your friends or mention us on 
 
 **Changelog**
 
+**1.1**
+- Added "Weekly Custom Email Newsletter" template.
+
 **1.0**
 
 - Four free templates released.
