@@ -16,7 +16,7 @@ Although, those people live in the Instagram era, which means they look for some
 ![Postcards App](https://cdn-images-1.medium.com/max/2600/1*kB_4J-W0ARXgc2WfpUQy8Q.jpeg)
 
 
-Not only will you have an opportunity to create the template based on your wants and needs, but you will get the opportunity to do that easily. First of all, you don´t need coding skills at all. **Postcards app is easy to use,** and it is made to serve you on your way to success.
+Not only will you have an opportunity to create the [email newsletter templates](https://designmodo.com/email-newsletter-templates/) based on your wants and needs, but you will get the opportunity to do that easily. First of all, you don´t need coding skills at all. **Postcards app is easy to use,** and it is made to serve you on your way to success.
 
 **Features**
 *	**Drag & drop builder** - 90+ pre-designed blocks to make your campaign stand out
